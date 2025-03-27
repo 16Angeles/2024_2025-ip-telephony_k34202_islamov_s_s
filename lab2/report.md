@@ -8,7 +8,7 @@ Year: 2024/2025
 
 Group: K34202
 
-Author: Rogozina Veronika Sergeevna
+Author: Islamov Sergey Sergeevich
 
 Lab: Lab2
 
