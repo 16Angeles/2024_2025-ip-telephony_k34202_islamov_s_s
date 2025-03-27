@@ -59,7 +59,7 @@ Date of finished:
 
 Проверяем, что все работает
 
-![Снимок экрана от 2025-02-19 16-32-21](https://github.com/user-attachments/assets/020e1db8-a843-4b13-b5bc-afda8b18376b)
+![image](https://github.com/16Angeles/2024_2025-ip-telephony_k34202_islamov_s_s/blob/dce906f0b4e2046fa6d8b598cde6b52fa356e9bc/lab3/2.png)
 
 ### Установка и настройка телефона Zoiper
 
