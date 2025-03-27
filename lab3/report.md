@@ -73,7 +73,7 @@ Date of finished:
 
 Проверим, что порт отображается внутри Asterisk
 
-![Снимок экрана от 2025-02-19 17-03-36](https://github.com/user-attachments/assets/025ea53b-724e-4fa0-9dc3-49fd7936e33c)
+![image](https://github.com/16Angeles/2024_2025-ip-telephony_k34202_islamov_s_s/blob/a7bceff75f0ecc937cb9a244de2ca5b73ce44160/lab3/4.png)
 
 
 ### Установка и настройка MicroSIP
