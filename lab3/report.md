@@ -54,9 +54,7 @@ Date of finished:
 
 ![Снимок экрана от 2025-03-12 14-29-00](https://github.com/user-attachments/assets/6263d155-bf6e-4cf8-8f6d-8edc9903060b)
 
-Перезапускаем службу
-
-![Снимок экрана от 2025-02-19 16-31-32](https://github.com/user-attachments/assets/64bc1c99-00da-4b0d-9126-b56d8d038692)
+Перезапускаем службу с помощью sudo service asterisk restart
 
 Проверяем, что все работает
 
