@@ -92,7 +92,7 @@ Cледуя инструкциям завершаем установку
 
 Проверим, что порты отображаются корректно:
 
-![Снимок экрана от 2025-03-12 14-20-06](https://github.com/user-attachments/assets/2c0dd0cf-b2fc-4fd7-b819-b19db4959bcf)
+![image](https://github.com/16Angeles/2024_2025-ip-telephony_k34202_islamov_s_s/blob/38ad688b1ac8437bdf3b28131507dd3137dde07a/lab3/5.png)
 
 Проверим сетевую связность:
 
