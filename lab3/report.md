@@ -42,7 +42,7 @@ Date of finished:
 
 Установим Asterisk
 
-![image]()
+![image](https://github.com/16Angeles/2024_2025-ip-telephony_k34202_islamov_s_s/blob/49f21e78604d0f1165cfba951dec0f5fb91b244a/lab3/1.png)
 
 
 Редактируем файлы конфигурации
