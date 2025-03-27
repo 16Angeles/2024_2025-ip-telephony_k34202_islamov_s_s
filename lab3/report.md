@@ -65,7 +65,7 @@ Date of finished:
 
 Скачиваем ZoiPer5 с официального сайта и распаковываем его
 
-![Снимок экрана от 2025-02-19 16-50-50](https://github.com/user-attachments/assets/b30dc4d8-d29e-41c0-8864-8644baa14f87)
+![image](https://github.com/16Angeles/2024_2025-ip-telephony_k34202_islamov_s_s/blob/731511f053635abd25754d15452133cf866ed67a/lab3/3.png)
 
 Заходим в приложение под логином и паролем одного из созданных аккаунтов 
 
