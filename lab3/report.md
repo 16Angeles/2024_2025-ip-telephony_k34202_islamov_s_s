@@ -42,7 +42,8 @@ Date of finished:
 
 Установим Asterisk
 
-![Снимок экрана от 2025-02-19 16-23-46](https://github.com/user-attachments/assets/4aa09aa1-d032-49dd-a36d-7717a8e380c2)
+![image]()
+
 
 Редактируем файлы конфигурации
 
