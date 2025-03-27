@@ -54,7 +54,7 @@ Date of finished:
 
 ![Снимок экрана 2025-02-13 175812](https://github.com/user-attachments/assets/252d4e05-09cc-48ca-9b89-7da807f84e91)
 
-Отключим синтаксис ввода слов от DNS серверов с помощью команды ``:
+Отключим синтаксис ввода слов от DNS серверов:
 
 ![Снимок экрана 2025-02-13 175845](https://github.com/user-attachments/assets/deceb7c7-b49b-411e-b202-9dd5d1c90d21)
 
